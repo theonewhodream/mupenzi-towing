@@ -1,0 +1,6 @@
+{
+  "name": "Mupenzi Breakdown",
+  "description": "Premium 24/7 vehicle breakdown solutions, real-world emergency dispatch rescue, and realistic AI breakdown incident imagery within Rwanda.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
